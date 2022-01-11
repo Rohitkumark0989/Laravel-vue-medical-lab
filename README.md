@@ -14,16 +14,16 @@ Step 4
 composer dump autoload
 
 Step 5 
-php artisan key:generate & php artisan storage:link
-
-Step 6
+php artisan key:generate 
+php artisan storage:link
 php artisan migrate
-
-Step 7
 php artisan db:seed --class=UserSeeder
 php artisan db:seed --class=LabTest
 
-Step 8 
+Step 6 
+Update your email address in helpers.php file.
+
+Step 7 
 Login Credential for admin are below
 URL : http://127.0.0.1:8000/login
 Email: rohit@gmail.com
@@ -32,7 +32,6 @@ Password: 12345678
 URL : http://127.0.0.1:8000/userlogin
 Name : bhitai
 Password: bhitai123
-
 
 
 

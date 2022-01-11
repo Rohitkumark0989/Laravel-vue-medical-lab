@@ -166,9 +166,9 @@ footer {
   </head>
   <body>
     <header class="clearfix">
-     <div id="logoeng">
+     <!-- <div id="logoeng">
         <img src="img/doctors/bhitaieng.jpeg">
-     </div> 
+     </div>  -->
      <div id="logo">
         <img src="img/doctors/logo.png">
       </div>
@@ -176,9 +176,9 @@ footer {
         <img src="img/doctors/logo.png">
       </div>  -->
 
-      <div id="logourdu">
+      <!-- <div id="logourdu">
         <img src="img/doctors/bhitaiurdu.jpeg">
-      </div>
+      </div> -->
       <h1></h1>
       <div id="company" class="clearfix">
         <div>ADDRESS</div>
