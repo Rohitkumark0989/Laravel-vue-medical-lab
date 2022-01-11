@@ -4,7 +4,8 @@ Step 1
 Copy content of .env.example to .env
 
 Step 2 
-Change DB configuration eg Database, User name and Passowrd
+Change DB configuration eg Database, User name, Passowrd
+and (Email, Password) with your desire credential.  
 
 Step 3 
 run npm install command
