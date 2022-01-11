@@ -90,7 +90,7 @@ td{
     <center id="top">
       <div class="logo"></div>
       <div class="info"> 
-        <h2>Bhitai Lab</h2>
+        <h2>Medical Lab</h2>
       </div><!--End Info-->
     </center><!--End InvoiceTop-->
     

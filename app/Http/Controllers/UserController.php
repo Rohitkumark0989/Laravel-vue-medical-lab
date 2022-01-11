@@ -16,16 +16,6 @@ class UserController extends Controller
         }
         $request->session()->put('user_exist','yes');
         return response(['status'=>200]);
-        // //if($userData){
-        //     if(Auth::attempt(['name'=>$request->name,'password'=>$request->password,'email'=>'bhitai@gmail.com']))
-        //     {
-        //         $request->session()->put('user_exist','yes');
-        //         return response(['status'=>200]);            
-
-        //     }
-        // //} 
-        //  return response(['status'=>400]);
-        
 
     }
 }

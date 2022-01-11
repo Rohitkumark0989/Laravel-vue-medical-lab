@@ -244,7 +244,7 @@ footer {
       
     </main>
     <footer>
-         <span id="f-add">Al Habib Plaza, Bhitai Hospital Opp Civil Hospital Hyd Road Tando Allahyar Ph:022-3890528</span>
+         <span id="f-add">California</span>
     </footer>
   </body>
 </html>

@@ -252,7 +252,7 @@ footer {
       
     </main>
     <footer>
-         <span id="f-add">Al Habib Plaza, Bhitai Hospital Opp Civil Hospital Hyd Road Tando Allahyar Ph:</span>
+         <span id="f-add">California</span>
     </footer>
   </body>
 </html>
