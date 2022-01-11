@@ -19,7 +19,7 @@ Step 6
 php artisan migrate
 
 Step 7
-php artisan db:seed --class=UsersSeeder
+php artisan db:seed --class=UserSeeder
 php artisan db:seed --class=LabTest
 
 Step 8 
