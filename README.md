@@ -14,7 +14,7 @@ Step 4
 composer dump autoload
 
 Step 5 
-php artisan key:generate
+php artisan key:generate & php artisan storage:link
 
 Step 6
 php artisan migrate
