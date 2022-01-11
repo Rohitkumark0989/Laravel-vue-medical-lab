@@ -12,7 +12,7 @@
       <div class="container">
         <a class="navbar-brand" href="#">
           <!-- <span class="text-primary">One</span>-Health -->
-          <img class="text-primary" src="img/doctors/bhitailogo.jpeg" style="width:70px" alt="">
+          <img class="text-primary" src="img/doctors/logo.png" style="width:70px" alt="">
         </a>
 
         <!-- <form action="#">

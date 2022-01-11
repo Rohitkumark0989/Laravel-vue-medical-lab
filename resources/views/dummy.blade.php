@@ -172,7 +172,7 @@ footer {
         <img src="img/doctors/bhitaieng.jpeg">
      </div> 
      <div id="logo">
-        <img src="img/doctors/bhitailogo.jpeg">
+        <img src="img/doctors/logo.png">
       </div>
       <!-- <div id="logo">
         <img src="img/doctors/logo.png">

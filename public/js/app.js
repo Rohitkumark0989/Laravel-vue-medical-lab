@@ -23942,7 +23942,7 @@ var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   href: "#"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <span class=\"text-primary\">One</span>-Health "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "text-primary",
-  src: "img/doctors/bhitailogo.jpeg",
+  src: "img/doctors/logo.png",
   style: {
     "width": "70px"
   },
