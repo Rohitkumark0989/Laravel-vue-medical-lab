@@ -37,7 +37,7 @@
                   </div>
                 </div>
                 <div class="body">
-                  <p class="text-xl mb-0">Dr. Manzoor Jarwar</p>
+                  <p class="text-xl mb-0">Dr. John</p>
                   <span class="text-sm text-grey">Child Specialist</span>
                 </div>
               </div>
@@ -52,7 +52,7 @@
                   </div>
                 </div>
                 <div class="body">
-                  <p class="text-xl mb-0">Dr. Naeem Jarwar</p>
+                  <p class="text-xl mb-0">Dr. Robert</p>
                   <span class="text-sm text-grey">Family Physician</span>
                 </div>
               </div>

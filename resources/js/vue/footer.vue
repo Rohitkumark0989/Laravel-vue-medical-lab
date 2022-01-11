@@ -16,9 +16,9 @@
         
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Contact</h5>
-          <p class="footer-link mt-2">Al Habib Plaza Bhitai Hospital Opp Civil Hospital Hyd Road Tando Allahyar</p>
-          <a href="#" class="footer-link">022-3890528</a> <br>
-          <a href="#" class="footer-link">naeem@gmail.com</a>
+          <p class="footer-link mt-2">Mountain View, California, United States</p>
+          <a href="#" class="footer-link">021-2222222</a> <br>
+          <a href="#" class="footer-link">test@gmail.com</a>
 
           
         </div>

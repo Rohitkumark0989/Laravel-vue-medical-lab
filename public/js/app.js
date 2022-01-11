@@ -22569,7 +22569,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-banner overlay-dark bg-image\" style=\"background-image:url(/img/bg_image_1.jpg);\"><div class=\"banner-section\"><div class=\"container text-center wow fadeInUp\"><nav aria-label=\"Breadcrumb\"><ol class=\"breadcrumb breadcrumb-dark bg-transparent justify-content-center py-0 mb-2\"><li class=\"breadcrumb-item\"><a href=\"index.html\">Home</a></li><li class=\"breadcrumb-item active\" aria-current=\"page\">About</li></ol></nav><h1 class=\"font-weight-normal\">About Us</h1></div><!-- .container --></div><!-- .banner-section --></div>", 1);
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-8 wow fadeInUp\"><h1 class=\"text-center mb-3\">Welcome to Your Health Center</h1><div class=\"text-lg\"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque sit, explicabo vero nulla animi nemo quae cumque, eaque pariatur eum ut maxime! Tenetur aperiam maxime iure explicabo aut consequuntur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque sit, explicabo vero nulla animi nemo quae cumque, eaque pariatur eum ut maxime! Tenetur aperiam maxime iure explicabo aut consequuntur.</p><p>Expedita iusto sunt beatae esse id nihil voluptates magni, excepturi distinctio impedit illo, incidunt iure facilis atque, inventore reprehenderit quidem aliquid recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium quod ad sequi atque accusamus deleniti placeat dignissimos illum nulla voluptatibus vel optio, molestiae dolore velit iste maxime, nobis odio molestias!</p></div></div><div class=\"col-lg-10 mt-5\"><h1 class=\"text-center mb-5 wow fadeInUp\">Our Doctors</h1><div class=\"row justify-content-center\"><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Manzoor Jarwar</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Naeem Jarwar</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div></div></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-8 wow fadeInUp\"><h1 class=\"text-center mb-3\">Welcome to Your Health Center</h1><div class=\"text-lg\"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque sit, explicabo vero nulla animi nemo quae cumque, eaque pariatur eum ut maxime! Tenetur aperiam maxime iure explicabo aut consequuntur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque sit, explicabo vero nulla animi nemo quae cumque, eaque pariatur eum ut maxime! Tenetur aperiam maxime iure explicabo aut consequuntur.</p><p>Expedita iusto sunt beatae esse id nihil voluptates magni, excepturi distinctio impedit illo, incidunt iure facilis atque, inventore reprehenderit quidem aliquid recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium quod ad sequi atque accusamus deleniti placeat dignissimos illum nulla voluptatibus vel optio, molestiae dolore velit iste maxime, nobis odio molestias!</p></div></div><div class=\"col-lg-10 mt-5\"><h1 class=\"text-center mb-5 wow fadeInUp\">Our Doctors</h1><div class=\"row justify-content-center\"><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. John</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Robert</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"col-md-6 col-lg-4 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div></div></div>", 1);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Header = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Header");
@@ -23760,7 +23760,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-banner overlay-dark bg-image\" style=\"background-image:url(/img/bg_image_1.jpg);\"><div class=\"banner-section\"><div class=\"container text-center wow fadeInUp\"><nav aria-label=\"Breadcrumb\"><ol class=\"breadcrumb breadcrumb-dark bg-transparent justify-content-center py-0 mb-2\"><li class=\"breadcrumb-item\"><a href=\"index.html\">Home</a></li><li class=\"breadcrumb-item active\" aria-current=\"page\">Doctors</li></ol></nav><h1 class=\"font-weight-normal\">Our Doctors</h1></div><!-- .container --></div><!-- .banner-section --></div>", 1);
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section bg-light\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-10\"><div class=\"row\"><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Manzoor Jarwar</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Naeem Jarwar</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_1.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Stein Albert</p><span class=\"text-sm text-grey\">Cardiology</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_2.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Alexa Melvin</p><span class=\"text-sm text-grey\">Dental</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div></div><!-- .container --></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section bg-light\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-10\"><div class=\"row\"><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. John</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Robert</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_1.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Stein Albert</p><span class=\"text-sm text-grey\">Cardiology</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_2.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Alexa Melvin</p><span class=\"text-sm text-grey\">Dental</span></div></div></div><div class=\"col-md-6 col-lg-4 py-3 wow zoomIn\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div></div><!-- .container --></div>", 1);
 
 var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section\"><div class=\"container\"><h1 class=\"text-center wow fadeInUp\">Make an Appointment</h1><form class=\"main-form\"><div class=\"row mt-5\"><div class=\"col-12 col-sm-6 py-2 wow fadeInLeft\"><input type=\"text\" class=\"form-control\" placeholder=\"Full name\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInRight\"><input type=\"text\" class=\"form-control\" placeholder=\"Email address..\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInLeft\" data-wow-delay=\"300ms\"><input type=\"date\" class=\"form-control\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInRight\" data-wow-delay=\"300ms\"><select name=\"departement\" id=\"departement\" class=\"custom-select\"><option value=\"general\">General Health</option><option value=\"cardiology\">Cardiology</option><option value=\"dental\">Dental</option><option value=\"neurology\">Neurology</option><option value=\"orthopaedics\">Orthopaedics</option></select></div><div class=\"col-12 py-2 wow fadeInUp\" data-wow-delay=\"300ms\"><input type=\"text\" class=\"form-control\" placeholder=\"Number..\"></div><div class=\"col-12 py-2 wow fadeInUp\" data-wow-delay=\"300ms\"><textarea name=\"message\" id=\"message\" class=\"form-control\" rows=\"6\" placeholder=\"Enter message..\"></textarea></div></div><button type=\"submit\" class=\"btn btn-primary mt-3 wow zoomIn\">Submit Request</button></form></div><!-- .container --></div>", 1);
 
@@ -23824,13 +23824,13 @@ var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
   "class": "col-sm-6 col-lg-3 py-3"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", null, "Contact"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "footer-link mt-2"
-}, "Al Habib Plaza Bhitai Hospital Opp Civil Hospital Hyd Road Tando Allahyar"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+}, "Mountain View, California, United States"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
   href: "#",
   "class": "footer-link"
-}, "022-3890528"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+}, "021-2222222"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
   href: "#",
   "class": "footer-link"
-}, "naeem@gmail.com")], -1
+}, "test@gmail.com")], -1
 /* HOISTED */
 );
 
@@ -24550,7 +24550,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 
-var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-hero bg-image overlay-dark\" style=\"background-image:url(/img/bg_image_1.jpg);\"><div class=\"hero-section\"><div class=\"container text-center wow zoomIn\"><span class=\"subhead\">Let&#39;s make your life happier</span><h1 class=\"display-4\">Healthy Living</h1><a href=\"#\" class=\"btn btn-primary\">Let&#39;s Consult</a></div></div></div><div class=\"page-section\"><div class=\"container\"><h1 class=\"text-center mb-5 wow fadeInUp\">Our Doctors</h1><div class=\"owl-carousel wow fadeInUp\" id=\"doctorSlideshow\"><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Manzoor Jarwar</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Naeem Jarwar</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div><div class=\"page-section bg-light\"><div class=\"container\"><h1 class=\"text-center wow fadeInUp\">Latest News</h1><div class=\"row mt-5\"><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_1.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">List of Countries without Coronavirus case</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_1.jpg\" alt=\"\"></div><span>Roger Adams</span></div><span class=\"mai-time\"></span> 1 week ago </div></div></div></div><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_2.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">Recovery Room: News beyond the pandemic</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_1.jpg\" alt=\"\"></div><span>Roger Adams</span></div><span class=\"mai-time\"></span> 4 weeks ago </div></div></div></div><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_3.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">What is the impact of eating too much sugar?</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_2.jpg\" alt=\"\"></div><span>Diego Simmons</span></div><span class=\"mai-time\"></span> 2 months ago </div></div></div></div><div class=\"col-12 text-center mt-4 wow zoomIn\"><a href=\"blog.html\" class=\"btn btn-primary\">Read More</a></div></div></div></div>", 3);
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-hero bg-image overlay-dark\" style=\"background-image:url(/img/bg_image_1.jpg);\"><div class=\"hero-section\"><div class=\"container text-center wow zoomIn\"><span class=\"subhead\">Let&#39;s make your life happier</span><h1 class=\"display-4\">Healthy Living</h1><a href=\"#\" class=\"btn btn-primary\">Let&#39;s Consult</a></div></div></div><div class=\"page-section\"><div class=\"container\"><h1 class=\"text-center mb-5 wow fadeInUp\">Our Doctors</h1><div class=\"owl-carousel wow fadeInUp\" id=\"doctorSlideshow\"><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/manzor.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. John</p><span class=\"text-sm text-grey\">Child Specialist</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/naheem.jpeg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Robert</p><span class=\"text-sm text-grey\">Family Physician</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div><div class=\"item\"><div class=\"card-doctor\"><div class=\"header\"><img src=\"/img/doctors/doctor_3.jpg\" alt=\"\"><div class=\"meta\"><a href=\"#\"><span class=\"mai-call\"></span></a><a href=\"#\"><span class=\"mai-logo-whatsapp\"></span></a></div></div><div class=\"body\"><p class=\"text-xl mb-0\">Dr. Rebecca Steffany</p><span class=\"text-sm text-grey\">General Health</span></div></div></div></div></div></div><div class=\"page-section bg-light\"><div class=\"container\"><h1 class=\"text-center wow fadeInUp\">Latest News</h1><div class=\"row mt-5\"><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_1.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">List of Countries without Coronavirus case</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_1.jpg\" alt=\"\"></div><span>Roger Adams</span></div><span class=\"mai-time\"></span> 1 week ago </div></div></div></div><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_2.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">Recovery Room: News beyond the pandemic</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_1.jpg\" alt=\"\"></div><span>Roger Adams</span></div><span class=\"mai-time\"></span> 4 weeks ago </div></div></div></div><div class=\"col-lg-4 py-2 wow zoomIn\"><div class=\"card-blog\"><div class=\"header\"><div class=\"post-category\"><a href=\"#\">Covid19</a></div><a href=\"blog-details.html\" class=\"post-thumb\"><img src=\"/img/blog/blog_3.jpg\" alt=\"\"></a></div><div class=\"body\"><h5 class=\"post-title\"><a href=\"blog-details.html\">What is the impact of eating too much sugar?</a></h5><div class=\"site-info\"><div class=\"avatar mr-2\"><div class=\"avatar-img\"><img src=\"/img/person/person_2.jpg\" alt=\"\"></div><span>Diego Simmons</span></div><span class=\"mai-time\"></span> 2 months ago </div></div></div></div><div class=\"col-12 text-center mt-4 wow zoomIn\"><a href=\"blog.html\" class=\"btn btn-primary\">Read More</a></div></div></div></div>", 3);
 
 var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"page-section\"><div class=\"container\"><h1 class=\"text-center wow fadeInUp\">Make an Appointment</h1><form class=\"main-form\"><div class=\"row mt-5\"><div class=\"col-12 col-sm-6 py-2 wow fadeInLeft\"><input type=\"text\" class=\"form-control\" placeholder=\"Full name\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInRight\"><input type=\"text\" class=\"form-control\" placeholder=\"Email address..\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInLeft\" data-wow-delay=\"300ms\"><input type=\"date\" class=\"form-control\"></div><div class=\"col-12 col-sm-6 py-2 wow fadeInRight\" data-wow-delay=\"300ms\"><select name=\"departement\" id=\"departement\" class=\"custom-select\"><option value=\"general\">General Health</option><option value=\"cardiology\">Cardiology</option><option value=\"dental\">Dental</option><option value=\"neurology\">Neurology</option><option value=\"orthopaedics\">Orthopaedics</option></select></div><div class=\"col-12 py-2 wow fadeInUp\" data-wow-delay=\"300ms\"><input type=\"text\" class=\"form-control\" placeholder=\"Number..\"></div><div class=\"col-12 py-2 wow fadeInUp\" data-wow-delay=\"300ms\"><textarea name=\"message\" id=\"message\" class=\"form-control\" rows=\"6\" placeholder=\"Enter message..\"></textarea></div></div><button type=\"submit\" class=\"btn btn-primary mt-3 wow zoomIn\">Submit Request</button></form></div></div>", 1);
 
@@ -90338,13 +90338,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _UserLogin_vue_vue_type_template_id_73e9e0e7__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./UserLogin.vue?vue&type=template&id=73e9e0e7 */ "./resources/js/vue/UserLogin.vue?vue&type=template&id=73e9e0e7");
 /* harmony import */ var _UserLogin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./UserLogin.vue?vue&type=script&lang=js */ "./resources/js/vue/UserLogin.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_UserLogin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_UserLogin_vue_vue_type_template_id_73e9e0e7__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/UserLogin.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_UserLogin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_UserLogin_vue_vue_type_template_id_73e9e0e7__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/UserLogin.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90366,13 +90366,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _about_vue_vue_type_template_id_2e011b36__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./about.vue?vue&type=template&id=2e011b36 */ "./resources/js/vue/about.vue?vue&type=template&id=2e011b36");
 /* harmony import */ var _about_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./about.vue?vue&type=script&lang=js */ "./resources/js/vue/about.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_about_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_about_vue_vue_type_template_id_2e011b36__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/about.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_about_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_about_vue_vue_type_template_id_2e011b36__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/about.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90394,13 +90394,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _AdminDoctors_vue_vue_type_template_id_40147828__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AdminDoctors.vue?vue&type=template&id=40147828 */ "./resources/js/vue/admin/AdminDoctors.vue?vue&type=template&id=40147828");
 /* harmony import */ var _AdminDoctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AdminDoctors.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/AdminDoctors.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AdminDoctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AdminDoctors_vue_vue_type_template_id_40147828__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/AdminDoctors.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AdminDoctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AdminDoctors_vue_vue_type_template_id_40147828__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/AdminDoctors.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90422,13 +90422,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _AdminTests_vue_vue_type_template_id_4d53c859__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AdminTests.vue?vue&type=template&id=4d53c859 */ "./resources/js/vue/admin/AdminTests.vue?vue&type=template&id=4d53c859");
 /* harmony import */ var _AdminTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AdminTests.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/AdminTests.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AdminTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AdminTests_vue_vue_type_template_id_4d53c859__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/AdminTests.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AdminTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AdminTests_vue_vue_type_template_id_4d53c859__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/AdminTests.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90450,13 +90450,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _EdtiTestModal_vue_vue_type_template_id_ddfaab60__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./EdtiTestModal.vue?vue&type=template&id=ddfaab60 */ "./resources/js/vue/admin/EdtiTestModal.vue?vue&type=template&id=ddfaab60");
 /* harmony import */ var _EdtiTestModal_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./EdtiTestModal.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/EdtiTestModal.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_EdtiTestModal_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_EdtiTestModal_vue_vue_type_template_id_ddfaab60__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/EdtiTestModal.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_EdtiTestModal_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_EdtiTestModal_vue_vue_type_template_id_ddfaab60__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/EdtiTestModal.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90478,13 +90478,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _PatientDetail_vue_vue_type_template_id_b9209b82__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PatientDetail.vue?vue&type=template&id=b9209b82 */ "./resources/js/vue/admin/PatientDetail.vue?vue&type=template&id=b9209b82");
 /* harmony import */ var _PatientDetail_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PatientDetail.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/PatientDetail.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_PatientDetail_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_PatientDetail_vue_vue_type_template_id_b9209b82__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/PatientDetail.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_PatientDetail_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_PatientDetail_vue_vue_type_template_id_b9209b82__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/PatientDetail.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90506,13 +90506,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _PatientsList_vue_vue_type_template_id_1ba9895a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PatientsList.vue?vue&type=template&id=1ba9895a */ "./resources/js/vue/admin/PatientsList.vue?vue&type=template&id=1ba9895a");
 /* harmony import */ var _PatientsList_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PatientsList.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/PatientsList.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_PatientsList_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_PatientsList_vue_vue_type_template_id_1ba9895a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/PatientsList.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_PatientsList_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_PatientsList_vue_vue_type_template_id_1ba9895a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/PatientsList.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90534,13 +90534,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _admin_vue_vue_type_template_id_a75a6b10__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./admin.vue?vue&type=template&id=a75a6b10 */ "./resources/js/vue/admin/admin.vue?vue&type=template&id=a75a6b10");
 /* harmony import */ var _admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./admin.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/admin.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_admin_vue_vue_type_template_id_a75a6b10__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/admin.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_admin_vue_vue_type_template_id_a75a6b10__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/admin.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90563,7 +90563,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _dashboard_vue_vue_type_template_id_b203d286_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./dashboard.vue?vue&type=template&id=b203d286&scoped=true */ "./resources/js/vue/admin/dashboard.vue?vue&type=template&id=b203d286&scoped=true");
 /* harmony import */ var _dashboard_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./dashboard.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/dashboard.vue?vue&type=script&lang=js");
 /* harmony import */ var _dashboard_vue_vue_type_style_index_0_id_b203d286_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./dashboard.vue?vue&type=style&index=0&id=b203d286&scoped=true&lang=css */ "./resources/js/vue/admin/dashboard.vue?vue&type=style&index=0&id=b203d286&scoped=true&lang=css");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90571,7 +90571,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_dashboard_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_dashboard_vue_vue_type_template_id_b203d286_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-b203d286"],['__file',"resources/js/vue/admin/dashboard.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_dashboard_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_dashboard_vue_vue_type_template_id_b203d286_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-b203d286"],['__file',"resources/js/vue/admin/dashboard.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90594,7 +90594,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _footer_vue_vue_type_template_id_0c4f50c2_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./footer.vue?vue&type=template&id=0c4f50c2&scoped=true */ "./resources/js/vue/admin/footer.vue?vue&type=template&id=0c4f50c2&scoped=true");
 /* harmony import */ var _footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/footer.vue?vue&type=script&lang=js");
 /* harmony import */ var _footer_vue_vue_type_style_index_0_id_0c4f50c2_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./footer.vue?vue&type=style&index=0&id=0c4f50c2&scoped=true&lang=css */ "./resources/js/vue/admin/footer.vue?vue&type=style&index=0&id=0c4f50c2&scoped=true&lang=css");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90602,7 +90602,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_footer_vue_vue_type_template_id_0c4f50c2_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-0c4f50c2"],['__file',"resources/js/vue/admin/footer.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_footer_vue_vue_type_template_id_0c4f50c2_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-0c4f50c2"],['__file',"resources/js/vue/admin/footer.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90624,13 +90624,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _header_vue_vue_type_template_id_2d81b4b4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./header.vue?vue&type=template&id=2d81b4b4 */ "./resources/js/vue/admin/header.vue?vue&type=template&id=2d81b4b4");
 /* harmony import */ var _header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./header.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/header.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_header_vue_vue_type_template_id_2d81b4b4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/header.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_header_vue_vue_type_template_id_2d81b4b4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/header.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90652,13 +90652,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _main_vue_vue_type_template_id_69b6ccc0__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.vue?vue&type=template&id=69b6ccc0 */ "./resources/js/vue/admin/main.vue?vue&type=template&id=69b6ccc0");
 /* harmony import */ var _main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./main.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/main.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_main_vue_vue_type_template_id_69b6ccc0__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/main.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_main_vue_vue_type_template_id_69b6ccc0__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/main.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90680,13 +90680,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _sidebar_vue_vue_type_template_id_264543c5__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sidebar.vue?vue&type=template&id=264543c5 */ "./resources/js/vue/admin/sidebar.vue?vue&type=template&id=264543c5");
 /* harmony import */ var _sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./sidebar.vue?vue&type=script&lang=js */ "./resources/js/vue/admin/sidebar.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_sidebar_vue_vue_type_template_id_264543c5__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/sidebar.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_sidebar_vue_vue_type_template_id_264543c5__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/admin/sidebar.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90708,13 +90708,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _app_vue_vue_type_template_id_27d9b80a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./app.vue?vue&type=template&id=27d9b80a */ "./resources/js/vue/app.vue?vue&type=template&id=27d9b80a");
 /* harmony import */ var _app_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app.vue?vue&type=script&lang=js */ "./resources/js/vue/app.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_app_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_app_vue_vue_type_template_id_27d9b80a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/app.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_app_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_app_vue_vue_type_template_id_27d9b80a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/app.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90736,13 +90736,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _contact_vue_vue_type_template_id_96b80bee__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./contact.vue?vue&type=template&id=96b80bee */ "./resources/js/vue/contact.vue?vue&type=template&id=96b80bee");
 /* harmony import */ var _contact_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./contact.vue?vue&type=script&lang=js */ "./resources/js/vue/contact.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_contact_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_contact_vue_vue_type_template_id_96b80bee__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/contact.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_contact_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_contact_vue_vue_type_template_id_96b80bee__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/contact.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90764,13 +90764,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _doctors_vue_vue_type_template_id_2e8c81c6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./doctors.vue?vue&type=template&id=2e8c81c6 */ "./resources/js/vue/doctors.vue?vue&type=template&id=2e8c81c6");
 /* harmony import */ var _doctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./doctors.vue?vue&type=script&lang=js */ "./resources/js/vue/doctors.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_doctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_doctors_vue_vue_type_template_id_2e8c81c6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/doctors.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_doctors_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_doctors_vue_vue_type_template_id_2e8c81c6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/doctors.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90792,13 +90792,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _footer_vue_vue_type_template_id_d7ac7d7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./footer.vue?vue&type=template&id=d7ac7d7c */ "./resources/js/vue/footer.vue?vue&type=template&id=d7ac7d7c");
 /* harmony import */ var _footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.vue?vue&type=script&lang=js */ "./resources/js/vue/footer.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_footer_vue_vue_type_template_id_d7ac7d7c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/footer.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_footer_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_footer_vue_vue_type_template_id_d7ac7d7c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/footer.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90820,13 +90820,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _header_vue_vue_type_template_id_9547b598__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./header.vue?vue&type=template&id=9547b598 */ "./resources/js/vue/header.vue?vue&type=template&id=9547b598");
 /* harmony import */ var _header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./header.vue?vue&type=script&lang=js */ "./resources/js/vue/header.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_header_vue_vue_type_template_id_9547b598__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/header.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_header_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_header_vue_vue_type_template_id_9547b598__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/header.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90848,13 +90848,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _home_vue_vue_type_template_id_73671646__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home.vue?vue&type=template&id=73671646 */ "./resources/js/vue/home.vue?vue&type=template&id=73671646");
 /* harmony import */ var _home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./home.vue?vue&type=script&lang=js */ "./resources/js/vue/home.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_home_vue_vue_type_template_id_73671646__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/home.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_home_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_home_vue_vue_type_template_id_73671646__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/home.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90877,7 +90877,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _labTests_vue_vue_type_template_id_13a5a80a_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./labTests.vue?vue&type=template&id=13a5a80a&scoped=true */ "./resources/js/vue/labTests.vue?vue&type=template&id=13a5a80a&scoped=true");
 /* harmony import */ var _labTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./labTests.vue?vue&type=script&lang=js */ "./resources/js/vue/labTests.vue?vue&type=script&lang=js");
 /* harmony import */ var _labTests_vue_vue_type_style_index_0_id_13a5a80a_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./labTests.vue?vue&type=style&index=0&id=13a5a80a&scoped=true&lang=css */ "./resources/js/vue/labTests.vue?vue&type=style&index=0&id=13a5a80a&scoped=true&lang=css");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90885,7 +90885,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_labTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_labTests_vue_vue_type_template_id_13a5a80a_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-13a5a80a"],['__file',"resources/js/vue/labTests.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_labTests_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_labTests_vue_vue_type_template_id_13a5a80a_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-13a5a80a"],['__file',"resources/js/vue/labTests.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90907,13 +90907,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _labs_vue_vue_type_template_id_1c54866d__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./labs.vue?vue&type=template&id=1c54866d */ "./resources/js/vue/labs.vue?vue&type=template&id=1c54866d");
 /* harmony import */ var _labs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./labs.vue?vue&type=script&lang=js */ "./resources/js/vue/labs.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_labs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_labs_vue_vue_type_template_id_1c54866d__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/labs.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_labs_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_labs_vue_vue_type_template_id_1c54866d__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/labs.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90935,13 +90935,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _main_vue_vue_type_template_id_e03dabc0__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.vue?vue&type=template&id=e03dabc0 */ "./resources/js/vue/main.vue?vue&type=template&id=e03dabc0");
 /* harmony import */ var _main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./main.vue?vue&type=script&lang=js */ "./resources/js/vue/main.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_bhitai_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_main_vue_vue_type_template_id_e03dabc0__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/main.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Bhitai_Lab_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_main_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_main_vue_vue_type_template_id_e03dabc0__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/vue/main.vue"]])
 /* hot reload */
 if (false) {}
 
