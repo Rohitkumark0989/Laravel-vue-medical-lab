@@ -7,7 +7,7 @@ Step 2
 Change DB configuration eg Database, User name and Passowrd
 
 Step 3 
-run composer install command
+run npm install command
 
 Step 4 
 composer dump autoload
